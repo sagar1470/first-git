@@ -1,3 +1,4 @@
 this is the first git file.
   command : git branch -M main 
-  command : git push -u main
+  command : git push -u origin main
+  command : git pull origin main
