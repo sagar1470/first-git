@@ -1,1 +1,3 @@
 this is the first git file.
+  command : git branch -M main 
+  command : git push -u main
