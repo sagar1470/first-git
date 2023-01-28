@@ -3,3 +3,6 @@ this is the first git file.
   command : git push -u origin main
   command : git pull origin main
   command : git diff (to see new changes in the file)
+
+  command : git init
+  command : git remote add origin ......
