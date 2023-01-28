@@ -1,4 +1,4 @@
-this is the first git file.
+this is the first git fi
   command : git branch -M main 
   command : git push -u origin main
   command : git pull origin main
@@ -6,3 +6,10 @@ this is the first git file.
 
   command : git init
   command : git remote add origin ......
+
+  command : git diff file_name --staged 
+  command : git reset file_name
+  command : git checkout file_name 
+   
+
+   file name should be with extension (i.e utility.txt)
